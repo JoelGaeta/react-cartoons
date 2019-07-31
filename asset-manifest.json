@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-cartoons/static/css/main.95cb9167.chunk.css",
+    "main.js": "/react-cartoons/static/js/main.084e7a7a.chunk.js",
+    "main.js.map": "/react-cartoons/static/js/main.084e7a7a.chunk.js.map",
+    "runtime~main.js": "/react-cartoons/static/js/runtime~main.f98b9495.js",
+    "runtime~main.js.map": "/react-cartoons/static/js/runtime~main.f98b9495.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-cartoons/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-cartoons/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-cartoons/index.html",
+    "precache-manifest.7fba80f7e8533802b9f26c63f580c0fb.js": "/react-cartoons/precache-manifest.7fba80f7e8533802b9f26c63f580c0fb.js",
+    "service-worker.js": "/react-cartoons/service-worker.js",
+    "static/css/main.95cb9167.chunk.css.map": "/react-cartoons/static/css/main.95cb9167.chunk.css.map"
+  }
+}
