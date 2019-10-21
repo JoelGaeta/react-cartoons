@@ -10,3 +10,7 @@ The user must not click the same character more than once or the score will reve
 # Technology Used
 
 made with React.js
+
+# Link to deployed site
+
+https://joelgaeta.github.io/react-cartoons/
